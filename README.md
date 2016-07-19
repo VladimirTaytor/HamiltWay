@@ -1,2 +1,2 @@
 # HamiltWay
-This programm search Hamiltonian cycle in an undirected graph.
+This program search Hamiltonian cycle in an undirected graph.
